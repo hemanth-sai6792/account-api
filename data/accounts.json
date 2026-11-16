@@ -1,4 +1,5 @@
 [
   {"id": 1, "owner": "alice", "balance": 120.0},
-  {"id": 2, "owner": "bob", "balance": 45.5}
+  {"id": 2, "owner": "bob", "balance": 45.5},
+  {"id": 3, "owner": "carol", "balance": 300.0}
 ]
